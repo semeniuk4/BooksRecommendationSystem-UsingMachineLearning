@@ -7,7 +7,8 @@ Additionally, for a seamless and user-friendly experience, the Book System Recom
 
 In the project, the machine learning model is created using the NearestNeighbors algorithm. The NearestNeighbors algorithm works by measuring the distance between instances in a dataset.
 
-<img width="959" alt="Screenshot 2023-07-01 at 17 13 51" src="https://github.com/semeniuk4/BooksRecommendationSystem-UsingMachineLearning/assets/36206527/7895309b-0f40-4282-87a5-d514a9410771">
+<img width="959" alt="Screenshot 2023-07-01 at 17 13 51" src="https://github.com/semeniuk4/BooksRecommendationSystem-UsingMachineLearning/assets/36206527/cafa74b0-8e94-482f-91d6-d8fa78b54bde">
+
 
 ## How to run?
 1. Clone this repository
